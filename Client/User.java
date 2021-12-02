@@ -8,8 +8,8 @@ public class User {
     // init constants
     final static String[] USERS = { "john", "emily", "ali", "justin", "user" };
     final static String[] PASSWORDS = { "john", "emily", "ali", "justin", "user" };
-    final static String[] USERS_V = { "owais", "taha", "austin", "mitchell", "user_v" };
-    final static String[] PASSWORDS_V = { "owais", "taha", "austin", "mitchell", "user_v" };
+    final static String[] USERS_V = { "owais", "taha", "austin", "mitchell", "creator" };
+    final static String[] PASSWORDS_V = { "owais", "taha", "austin", "mitchell", "creator" };
     // create scanner
     static Scanner sc = new Scanner(System.in);
 
